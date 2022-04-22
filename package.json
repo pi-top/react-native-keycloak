@@ -49,8 +49,7 @@
   },
   "dependencies": {
     "@react-keycloak/core": "^3.2.0",
-    "@react-keycloak/keycloak-ts": "^0.2.4",
-    "react-native-inappbrowser-reborn": "^3.6.3"
+    "@react-keycloak/keycloak-ts": "^0.2.4"
   },
   "peerDependencies": {
     "react": "*",
